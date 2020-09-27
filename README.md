@@ -45,6 +45,7 @@ This data set contains approximately 2.65M sequences of camera trap images, tota
 
 Labels are provided for 61 categories, primarily at the species level (for example, the most common labels are wildebeest, zebra, and Thomson’s gazelle). Approximately 76% of images are labeled as empty. A full list of species and associated image counts is available [here](https://lilablobssc.blob.core.windows.net/snapshotserengeti-v-2-0/SnapshotSerengeti_S1-11_v2.1.species_list.csv). 
 
+For testing models trained with Snapshot Serengeti Dataset, a set of random images collected from the internet is provided in the folder OutSampleImages.
 
 # Attribution:
 
